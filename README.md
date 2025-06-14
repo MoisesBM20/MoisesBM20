@@ -7,6 +7,6 @@ Here are some of the ones I use.
 📧 Email: moisesbuitrago201@gmail.com
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,angular,java,vue,mongodb,aws,azure,c,cs,cpp,docker,fastapi, github,mysql,spring " />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,angular,java,vue,mongodb,aws,azure,c,cs,cpp,docker,fastapi,github,mysql,spring " />
 </p>
 
